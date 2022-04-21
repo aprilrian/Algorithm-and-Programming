@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650524303 source:c:\users\xp\documents\undip\mata kuliah\smt 2\algoritma dan pemrograman\praktikum\praktikum 7\binsearch.c
+	"BinSearch.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1650524319 c:\users\xp\documents\undip\mata kuliah\smt 2\algoritma dan pemrograman\praktikum\praktikum 7\binsearch.h
+	<stdbool.h>
+
